@@ -1,4 +1,4 @@
-# RoomRevive - AI-Powered Room Organization App
+# Room Organize - AI-Powered Room Organization App
 
 An AI-powered mobile app that helps you organize and beautify any room. Simply take a photo of your space, and AI will generate a vision of what it could look like organized, plus provide step-by-step instructions to achieve that transformation.
 
